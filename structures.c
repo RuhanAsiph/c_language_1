@@ -1,4 +1,5 @@
 #include<stdio.h>
+/*Storing information and displaying it using structures */
 struct student
 {
 char name[50];
